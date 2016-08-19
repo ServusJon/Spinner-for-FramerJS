@@ -4,7 +4,7 @@ I built this spinner module so you can easily integrate it in your prototypes:
 
 <img src="https://raw.githubusercontent.com/ServusJon/Spinner-for-FramerJS/master/spinner.gif" alt="Spinner" width="400">
 
-This spinner is inspired by the spinner from Skype. Thank you [Travis Kirton](https://twitter.com/postfl) for [sharing this tutorial](http://www.c4ios.com/tutorials/skype)
+This spinner is inspired by the spinner from Skype. Thank you [Travis Kirton](https://twitter.com/postfl) for sharing [this tutorial](http://www.c4ios.com/tutorials/skype)
 
 ## Setup
 1. Download the `spinner.coffee` file

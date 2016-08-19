@@ -2,6 +2,8 @@
 I buid this spinner module so you can easily integrate it in your prototypes:
 ![Alt Text](https://raw.githubusercontent.com/ServusJon/Spinner-for-FramerJS/master/spinner.gif)
 
+<img src="https://raw.githubusercontent.com/ServusJon/Spinner-for-FramerJS/master/spinner.gif" width="400">
+
 [See it in Action](http://share.framerjs.com/v4lsjrty3u0m/)
 
 This spinner is inspired by the spinner from Skype. Thank you @C4Framework for [sharing this tutorial](http://www.c4ios.com/tutorials/skype)

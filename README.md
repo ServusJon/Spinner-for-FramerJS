@@ -1,6 +1,7 @@
 # Spinner Module For Your Framerjs Prototypes
 I buid this spinner module so you can easily integrate it in your prototypes:
-![Alt Text](https://raw.githubusercontent.com/ServusJon/Spinner-for-FramerJS/master/spinner.gif =400x)
+
+<img src="https://raw.githubusercontent.com/ServusJon/Spinner-for-FramerJS/master/spinner.gif" alt="Spinner" width="400">
 
 [See it in Action](http://share.framerjs.com/v4lsjrty3u0m/)
 
